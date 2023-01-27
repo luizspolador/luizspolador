@@ -1,7 +1,7 @@
 
 
-## Hi! My name is Luiz Henrique
+### Olá, meu nome é Luiz Henrique ✌
 
-- 🔭 I’m currently working as a process assistant
-- 🌱 I’m currently learning JavaScript, Node JS and Java
-- 👯 I'm looking for a job as a backend developer
+![Luiz Spolador's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizspolador&show_icons=true&bg_color=00000000)
+
+## Tecnologias
