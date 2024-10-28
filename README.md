@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-spolador-95557090)
 
-Sou Biomedico formado pela Universidade Estadual de Londrina e atualmente faço Análise e Desenvolvimento de Sistemas na UniFil - EAD.
+Formado em Biomedicina pela Universidade Estadual de Londrina e em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Filadélfia - UniFil.
 
 Migrei para a área de T.I. no início de 2022 trabalhando na área de suporte ao usuário (Service Desk). 
 Desde 10/2023 trabalho como desenvolvedor Java na empresa Atos. 
