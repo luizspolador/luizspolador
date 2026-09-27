@@ -51,9 +51,15 @@ Tenho uma trajetória multidisciplinar: iniciei minha jornada acadêmica graduan
 ![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-2B3A42?style=for-the-badge)
 
  ###  Mensageria & Sistemas Orientados a Eventos
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ_(AMQP)-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![DLQ](https://img.shields.io/badge/Dead_Letter_Queue_(DLQ)-B91C1C?style=for-the-badge)
-![AMQP](https://img.shields.io/badge/AMQP_Protocol-7C3AED?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Spring AMQP](https://img.shields.io/badge/Spring_AMQP-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AMQP Protocol](https://img.shields.io/badge/AMQP_0--9--1_Protocol-7C3AED?style=for-the-badge)
+![Exchanges](https://img.shields.io/badge/Topic_%2F_Fanout_%2F_Direct_Exchanges-1E293B?style=for-the-badge)
+![DLQ & DLX](https://img.shields.io/badge/DLQ_%26_Dead_Letter_Exchange_(DLX)-B91C1C?style=for-the-badge)
+![Retry & Backoff](https://img.shields.io/badge/Retry_Policies_%26_Exponential_Backoff-D97706?style=for-the-badge)
+![Publisher Confirms](https://img.shields.io/badge/Publisher_Confirms_%26_ACK%2FNACK-059669?style=for-the-badge)
+![Idempotent Consumer](https://img.shields.io/badge/Idempotent_Consumer_Pattern-334155?style=for-the-badge)
+
       
 ###  Segurança, Identidade & Controle de Acesso (IAM)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0083B0?style=for-the-badge&logo=keycloak&logoColor=white&logoWidth=16)
