@@ -19,7 +19,7 @@ Sou Desenvolvedor Java focado em **Back-end, Arquitetura de Microsserviços, Men
 
 Tenho uma trajetória multidisciplinar: iniciei minha jornada acadêmica graduando-me em **Biomedicina pela Universidade Estadual de Londrina (UEL)**, base que me proporcionou forte raciocínio analítico, metodologia científica e rigor na resolução de problemas complexos. Em seguida, migrei com entusiasmo para a área de tecnologia formando-me em **Análise e Desenvolvimento de Sistemas (UniFil)**.
 
-* 💼 **Atuação Atual:** Desenvolvedor Back-end Java (desde out/2023), projetando soluções robustas com o ecossistema Spring Boot, integrações assíncronas e bancos de dados relacionais e NoSQL, sob padrões modernos de engenharia de software..
+* 💼 **Atuação Atual:** Desenvolvedor Back-end Java (desde out/2023), projetando soluções com o ecossistema Spring Boot, integrações assíncronas e bancos de dados relacionais e NoSQL, sob padrões modernos de engenharia de software..
 * 🛠️ **Trajetória em T.I.:** Iniciei em 2022 no suporte técnico / Service Desk, consolidando comunicação assertiva, foco no cliente e resolução ágil de incidentes.
 
 ---
